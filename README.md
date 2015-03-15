@@ -12,3 +12,4 @@
  * Procedure: [Install Plex On Pi2 using chroots (wheezy-armel) (Drobo) ](https://github.com/Ericmas001/debian-helper/wiki/%5BProcedure%5D-Install-Plex-On-Pi2-using-chroots)
  * Procedure: [Install transmission as torrent server](https://github.com/Ericmas001/debian-helper/wiki/%5BProcedure%5D-Install-transmission-daemon)
  * Procedure: [Install Samba to share files with Windows](https://github.com/Ericmas001/debian-helper/wiki/%5BProcedure%5D-Install-Samba-to-share-files-with-Windows)
+ * Procedure: [Install Bluffin Muffin Poker Server](https://github.com/Ericmas001/debian-helper/wiki/%5BProcedure%5D-Install-Bluffin-Muffin-Poker-Server-on-RPI)
