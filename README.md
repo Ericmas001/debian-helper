@@ -2,6 +2,7 @@
 
  * Snippet: [Setup sudoedit](https://github.com/Ericmas001/debian-helper/wiki/%5BSnippet%5D-Setup-sudoedit)
  * Snippet: [Change from DHCP to Static IP](https://github.com/Ericmas001/debian-helper/wiki/%5BSnippet%5D-Change-from-DHCP-to-Static-IP)
+ * Snippet: [Mount a NFS drive](https://github.com/Ericmas001/debian-helper/wiki/%5BSnippet%5D-Mount-a-NFS-drive)
 
 ***
 
