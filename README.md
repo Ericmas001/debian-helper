@@ -9,3 +9,4 @@
 
  * Procedure: [Automount Ext4 Usb Stick](https://github.com/Ericmas001/debian-helper/wiki/%5BProcedure%5D-Automount-Ext4-Usb-Stick)
  * Procedure: [Install Plex On Pi2 using chroots (wheezy-armel) (Drobo) ](https://github.com/Ericmas001/debian-helper/wiki/%5BProcedure%5D-Install-Plex-On-Pi2-using-chroots)
+ * Procedure: [Install transmission daemon](https://github.com/Ericmas001/debian-helper/wiki/%5BProcedure%5D-Install-transmission-daemon)
